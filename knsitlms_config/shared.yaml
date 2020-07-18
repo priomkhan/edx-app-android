@@ -21,4 +21,4 @@ API_URL_VERSION:
 YOUTUBE_PLAYER: 
         Enabled: true
         #API_KEY: 'AIzaSyAB8pen4TrKCsfwpxjb0vjgETtDBTQarDg'
-        API_KEY: 'AIzaSyALh5g79bgfLrP84_BhEMbiXajAyWsffVc'
+        API_KEY: ''
