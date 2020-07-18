@@ -20,5 +20,5 @@ API_URL_VERSION:
         BLOCKS: 'v1'
 YOUTUBE_PLAYER: 
         Enabled: true
-        #API_KEY: 'AIzaSyAB8pen4TrKCsfwpxjb0vjgETtDBTQarDg'
+        #API_KEY: ''
         API_KEY: ''
