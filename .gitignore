@@ -65,3 +65,6 @@ test-build
 
 # reports directory
 /artifacts
+OpenEdXMobile/knsitlms_config/android.yaml
+OpenEdXMobile/knsitlms_config/edx.properties
+OpenEdXMobile/knsitlms_config/shared.yaml
